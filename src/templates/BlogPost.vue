@@ -20,11 +20,9 @@ query BlogPost ($path:String!) {
 export default {
   metaInfo() {
     return {
-      title: "Title"
+      title: "Blog"
     };
   }
 };
 </script>
 
-<style>
-</style>

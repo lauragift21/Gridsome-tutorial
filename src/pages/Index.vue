@@ -15,8 +15,6 @@
       <a href="https://github.com/gridsome/gridsome" target="_blank">GitHub</a>
     </p>
 
-    <b>Another Site like Gatbsy</b>
-
   </Layout>
 </template>
 
